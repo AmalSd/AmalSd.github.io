@@ -1,0 +1,23 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+Amal SAADALLAH<br>
+
+Wissenschaftlicher Mitarbeiterin<br>
+
+Technische Universität Dortmund<br>
+Informatik LS VIII & SFB 876<br>
+D-44227 Dortmund, Germany<br>
+Tel.       +49 (0)231 755-6490<br>
+Mobile +49 (0)163 1414460<br>
+
+amal.saadallah@cs.tu-dortmund.de<br>
+www.tu-dortmund.de <www.tu-dortmund.de><br>
+
+
+
+Or connect with me on GitHub or Linkedin (links in top right).
+

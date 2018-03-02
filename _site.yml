@@ -1,0 +1,24 @@
+name: "Amal Saadallah"
+output_dir: "."
+navbar:
+  title: "Amal Saadallah"
+  left:
+    - text: "Research Topics"
+      href: research.html
+    - text: "Publications"
+      href: talks.html
+    - text: "Programming"
+      href: software.html
+    - text: "Teaching and Presentations"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/AmalSd
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/amal-saadallah-31328b10a/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
